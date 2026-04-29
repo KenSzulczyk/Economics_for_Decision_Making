@@ -24,10 +24,10 @@ This assignment connects coding to key economic ideas:
 * Multivariate thinking → Prices alone do not explain behavior
 * Financial trends → Moving averages help identify long-term vs short-term trends
 
-
 ## 🚀 Getting Started (Recommended: Google Colab)
 
 The easiest way to run this assignment is using
+
 👉 Google Colab
 
 ## 🧪 Assignment Structure
@@ -45,14 +45,18 @@ We will:
 
 Part 2: Financial Time Series (Hang Seng Index)
 
-You will:
+We will:
 
 * Load real stock market data
 * Plot the Hang Seng Index over time
+
 Add:
+
 * 50-day moving average (short-term trend)
 * 200-day moving average (long-term trend)
+
 Highlight:
+
 * Bull markets (green)
 * Bear markets (red)
 
