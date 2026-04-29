@@ -1,7 +1,7 @@
 # 📘 Homework 2: Descriptive Statistics, Correlation, and Regression Analysis
 
 This assignment introduces students to data summarization and regression analysis using Python. 
-we will learn how economists and researchers explore datasets, identify relationships, and estimate demand models.
+We will learn how economists and researchers explore datasets, identify relationships, and estimate demand models.
 
 The focus is not just coding—it’s understanding what the numbers are telling you.
 
