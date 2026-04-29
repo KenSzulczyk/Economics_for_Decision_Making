@@ -4,9 +4,9 @@ This assignment introduces students to data visualization using Python. You will
 
 The goal is simple: learn how to see patterns in data before jumping into complex models.
 
-## 📊 What You Will Learn
+## 📊 What We Will Learn
 
-By completing this homework, you will:
+By completing this homework, we will:
 
 * Create and work with datasets in Python
 * Visualize data using boxplots and scatter plots
