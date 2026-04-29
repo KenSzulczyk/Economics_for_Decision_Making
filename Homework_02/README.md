@@ -7,7 +7,7 @@ The focus is not just coding—it’s understanding what the numbers are telling
 
 ## 📊 What You Will Learn
 
-By completing this homework, you will:
+By completing this homework, we will:
 
 * Create professional descriptive statistics tables
 * Analyze relationships using a correlation matrix
