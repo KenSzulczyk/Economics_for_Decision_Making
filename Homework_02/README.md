@@ -28,10 +28,10 @@ This assignment builds directly on economic theory:
 
 ## 📂 Files Included
 
-* Homework_02.py – Main Python script
-* Coffee_demand.csv – Dataset used in the analysis
+* data/ Coffee_demand.csv – Dataset used in the analysis
 * figures/ – Generated plots (e.g., correlation heatmap)
 * notebooks/ – Jupyter notebook version
+* scripts/ Homework_02.py – Main Python script
 
 ## 🚀 Getting Started (Recommended: Google Colab)
 
