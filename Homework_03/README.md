@@ -29,10 +29,10 @@ This assignment connects directly to core microeconomic theory:
 
 ## 📂 Files Included
 
-data/ Homework_03.xlsx – Dataset containing output and cost data
-figures/ – Generated plots (cost curves, correlation heatmap)
-notebooks/ – Jupyter notebook version
-scripts/ Homework_03.py – Main Python script
+* data/ Cubic_cost_function.csv – Dataset containing output and cost data
+* figures/ – Generated plots (cost curves, correlation heatmap)
+* notebooks/ – Jupyter notebook version
+* scripts/ Homework_03.py – Main Python script
 
 ## 🚀 Getting Started (Recommended: Google Colab)
 
@@ -44,7 +44,7 @@ The easiest way to complete this assignment is with
 * Click "New Notebook"
 Upload:
 * Homework_03.py (or copy/paste the code)
-* Homework_03.xlsx
+* Cubic_cost_function.csv
 * Run each section step-by-step
 
 ## 🧪 Assignment Structure
@@ -98,10 +98,10 @@ Part 5: Visualization
 
 Be prepared to answer:
 
-a. Report regression estimates and statistical significance
-b. Identify the firm’s fixed costs
-c. Compute average total cost at Q = 140
-d. Compute marginal cost at Q = 140
+* Report regression estimates and statistical significance
+* Identify the firm’s fixed costs
+* Compute average total cost at Q = 140
+* Compute marginal cost at Q = 140
 
 ## 📌 Final Thoughts
 
