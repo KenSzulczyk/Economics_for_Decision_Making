@@ -43,6 +43,5 @@ This repository is designed to:
 * Economic relationships (e.g., demand and price)
 * Introduction to regression analysis
 * Working with real-world datasets
---
-This repository is intended to be simple, practical, and student-friendly.
-New assignments and improvements will be added over time.
+
+This repository is intended to be simple, practical, and student-friendly. New assignments and improvements will be added over time.
